@@ -1,7 +1,7 @@
 ---
 title: David Wilcox
 role: Product Manager
-avatar_filename: headshot-lyrasis-smaller.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
