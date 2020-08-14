@@ -23,7 +23,7 @@ slides: ""
 draft: false
 featured: false
 authors:
-  - David Wilcox
+  - ""
 image:
   filename: featured
   focal_point: Smart
