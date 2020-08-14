@@ -11,16 +11,19 @@ abstract: >-
   Through two in-depth pilots, LYRASIS and the Fedora community will produce tools, documentation, paths, case studies, and best practices to support and improve the migration process for Fedora 3 repositories. This presentation will provide an overview of the project plan and discuss related work that is already happening to support the migration effort.
 location: Online
 date: 2020-08-04T13:40:00.000Z
-date_end: 2020-08-04T14:00:00.000Z
+date_end: 2020-08-04T03:00:00.000Z
 all_day: true
-links: []
+links:
+  - url: https://docs.google.com/presentation/d/1EY13L6fjPOyWaOcWzpOsrunOwN0xMWvjV_Pt3m8zYE4
+    name: Slides
 event: Islandora Online
 event_url: https://islandora.ca/events/islandora-online-2020
 publishDate: 2020-08-14T17:57:04.460Z
+slides: ""
 draft: false
 featured: false
 authors:
-  - David Wilcox
+  - ""
 image:
   filename: featured
   focal_point: Smart

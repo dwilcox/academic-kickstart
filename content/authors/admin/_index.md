@@ -2,8 +2,7 @@
 title: David Wilcox
 role: Product Manager
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Open source software and communities
   - digital collections
