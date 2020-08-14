@@ -13,11 +13,13 @@ location: Online
 date: 2020-08-04T13:40:00.000Z
 date_end: 2020-08-04T03:00:00.000Z
 all_day: true
-links: []
+links:
+  - url: https://docs.google.com/presentation/d/1EY13L6fjPOyWaOcWzpOsrunOwN0xMWvjV_Pt3m8zYE4
+    name: Slides
 event: Islandora Online
 event_url: https://islandora.ca/events/islandora-online-2020
 publishDate: 2020-08-14T17:57:04.460Z
-slides: https://docs.google.com/presentation/d/1EY13L6fjPOyWaOcWzpOsrunOwN0xMWvjV_Pt3m8zYE4/edit#slide=id.p1
+slides: ""
 draft: false
 featured: false
 authors:
